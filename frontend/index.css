@@ -1,0 +1,54 @@
+#navb {
+    background-color: #e4cdbe !important;
+    width: 100%;
+}
+#navbarSupportedContent {
+    width: 100%;
+}
+.menu{
+    margin: auto;
+}
+
+.hilo{
+    margin: auto;
+    width: 100px;
+    
+}
+
+.logo{
+    width: 80px;
+    height:80px;
+    
+}
+.img-container{
+    position: relative;
+    right:100px;
+    top: 90px;
+}
+
+
+.hilorama{
+    background-color: white;
+}
+/* CSS del carousel */
+.carousel-inner{
+    
+    height:400px;
+}
+/* CSS NAVBAR */
+
+.navbar navbar-expand-lg navbar-light bg-light{
+    float: left;
+    margin: 0;
+    left: 50%;
+    transform: translatex(-50%);
+    position: relative;
+}
+.background{
+    color:aliceblue
+}
+.section {
+    margin:100px;
+    width: 100px;
+    size: 500px;;
+}
